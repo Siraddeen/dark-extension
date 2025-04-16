@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dark Mode Toggle</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        width: 300px;
+        height: 200px;
+        overflow: hidden;
+        background: grey;
+
+        transition-property: all;
+        transition-duration: 0.3s;
+        transition-timing-function: ease-in-out;
+        border-radius: 2rem;
+      }
+      #root {
+        width: 100%;
+        height: 100%;
+        border-radius: 2rem;
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
