@@ -28,11 +28,11 @@ I'm a **Full stack developer**...
 
 ## Screenshots
 
-** Before enabling dark mode
+**Before enabling dark mode**
 ![Screenshot 2025-04-16 162110](https://github.com/user-attachments/assets/937383d9-eeb5-4b96-b4d8-ff9afdc09e4d)
 
 
-** After enabling dark mode
+**After enabling dark mode**
 
 ![Screenshot 2025-04-16 162117](https://github.com/user-attachments/assets/b67b2bfd-3d01-4759-ae93-99e7eb27b14f)
 
